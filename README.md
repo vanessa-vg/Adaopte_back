@@ -1,4 +1,5 @@
-**Contexte**
+##Contexte
+
 Projet web fullstack réalisé en groupe (front-end & back-end séparés).
 
 Ce dépôt correspond à ma version fork personnelle, utilisée pour expliquer le projet, mon rôle et mes apprentissages.
