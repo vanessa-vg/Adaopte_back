@@ -48,4 +48,6 @@ Dans ce projet, j’ai principalement travaillé sur :
 
 - Page j'adopte : barre de recherche filtrante fonctionnelle
 
+- Réponse automatique en fonction de si formulaire bien rempli ou incomplet
+
 - Rajouter des animaux et des types d'animaux dans la BDD avec une numérotation de pages
