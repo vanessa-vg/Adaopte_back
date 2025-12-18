@@ -1,4 +1,4 @@
-##Contexte
+## Contexte
 
 Projet web fullstack réalisé en groupe (front-end & back-end séparés).
 
